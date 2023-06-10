@@ -1,6 +1,8 @@
 # Read-from-CSV
 
 ## AIM:
+To write a python program to read the data from cvs file.
+
 
 ## ALGORITHM:
 ### Step 1:Import pandas as pd
@@ -23,3 +25,4 @@ print("No.of Columns:",len(df.axes[1]))
 ![image](https://github.com/Meetha22003992/Read-from-CSV/assets/119401038/cf4f4109-f49c-47e6-828d-f9904b279651)
 
 ## RESULT:
+Thus the program to find the read the cvs file is written and verified using python programming.
