@@ -10,7 +10,7 @@
 
 
 ## PROGRAM:
-``
+```
 import pandas as pd
 df = pd.read_csv("/content/student_scores.csv")
 print(df.head(15))
