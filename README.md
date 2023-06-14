@@ -22,7 +22,13 @@ print("No.of Columns:",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![image](https://github.com/Meetha22003992/Read-from-CSV/assets/119401038/cf4f4109-f49c-47e6-828d-f9904b279651)
+![image](https://github.com/Meetha22003992/Read-from-CSV/assets/119401038/31a1d255-38aa-4653-acd7-fd022cbc816e)
+
+![image](https://github.com/Meetha22003992/Read-from-CSV/assets/119401038/db45a74b-ab07-45d2-90d4-2cd9b77d2ae2)
+
+![image](https://github.com/Meetha22003992/Read-from-CSV/assets/119401038/90ff39f0-73f0-4277-974c-83cc2be7ddd3)
+
+![image](https://github.com/Meetha22003992/Read-from-CSV/assets/119401038/32683070-d66f-47bf-b243-4f951c1e3837)
 
 ## RESULT:
 Thus the program to find the read the cvs file is written and verified using python programming.
