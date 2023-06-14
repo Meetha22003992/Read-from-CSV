@@ -11,6 +11,8 @@ PC, Anaconda
 4. Print the required column and rows
 ## PROGRAM:
 ```
+#Developed By: Meetha Prabhu
+#Reg No:212222240065
 import pandas as pd
 df = pd.read_csv("/content/student_scores.csv")
 print(df.head(15))
