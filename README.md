@@ -2,15 +2,13 @@
 
 ## AIM:
 To write a python program to read the data from cvs file.
-
-
+## Equipment Required:
+PC, Anaconda
 ## ALGORITHM:
-### Step 1:Import pandas as pd
-### Step 2: Read the csv file
-### Step 3: Print the first 15 and last data using .head() and .tail() method
-### Step 4: Print the required column and rows
-
-
+1. Import pandas as pd
+2. Read the csv file
+3. Print the first 15 and last data using .head() and .tail() method
+4. Print the required column and rows
 ## PROGRAM:
 ```
 import pandas as pd
@@ -20,7 +18,6 @@ print(df.tail())
 print("No.of Rows:",len(df.axes[0]))
 print("No.of Columns:",len(df.axes[1]))
 ```
-
 ## OUTPUT:
 ![image](https://github.com/Meetha22003992/Read-from-CSV/assets/119401038/31a1d255-38aa-4653-acd7-fd022cbc816e)
 
